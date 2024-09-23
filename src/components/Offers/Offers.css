@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: arial;
+}
+.top{
+    height: 450px;
+    margin: 2rem 0 0 5rem;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.offers{
+    display: flex;
+    flex-wrap: wrap;
+}
+.productss{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 1rem 0 0 1.5rem;
+}
+.caption{
+   height: 40px;
+   width: 140px;
+   text-align: center;
+}
+.caption p{
+    margin: 1rem 0 0 0.15rem;
+    font-size: 1rem;
+    font-weight: bold;
+}

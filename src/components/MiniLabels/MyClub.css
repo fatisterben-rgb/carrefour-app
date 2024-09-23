@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: arial;
+}
+
+.mini-labels{
+    display: flex;
+}
+.earn-more{
+    height: 10vh;
+    width: 60vh;
+    background-color: white;
+    margin: 2rem 2rem 0 3rem;
+    border-radius:12px;
+    display: flex;
+}
+.my-club{
+    margin: 1rem 0 0 1rem;
+    font-size: 1.25rem;
+    color: rgb(202, 3, 3);
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.join{
+    display: flex;
+    flex-direction: column;
+    margin: 0.75rem 0 0 1rem;
+    font-size: 14px;
+    font-family: inherit;
+}
+.earn{
+    height: 10vh;
+    width: 60vh;
+    background-color: white;
+    margin: 2rem 1.5rem 0 0.25rem;
+    border-radius:12px;
+    display: flex;
+}
+.book-icon{
+    color: #0e5a77;
+    margin: 1.5rem 0 0 1rem;
+    font-size: 20px;
+}

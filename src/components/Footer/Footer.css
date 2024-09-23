@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: arial;
+}
+.footer-app{
+    height: 200px;
+    font-size: 20px;
+}
+.back-to-top{
+    height: 50px;
+    width: 100%;
+    background-color: #0a437c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 0.85rem;
+}
+.link-styles{
+    text-decoration: none;
+    color: white;
+}
+.link-styles:hover{
+    color: white;
+}
+.back-to-top p{
+    margin-top: 1rem;
+}
+.footer-content{
+    height:300px;
+    width: 100%;
+    background-color: #0e5aa7;
+    display: flex;
+    justify-content: space-between;
+}
+.profile{
+    height: 230px;
+    width: 250px;
+    margin: 0 0 0 4rem;
+}
+.profile img{
+    background-size: cover;
+    width: 150px;
+    height: 100px;
+}
+.reach-us{
+    margin-top: 3rem;
+    color: white;
+    font-size: 0.9rem;
+}
+.social{
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.s-icon1{
+    height: 25px;
+    word-break: 25px;
+    background-color: #7587a0;
+    border-radius: 12px;
+    padding: 7px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+}
+.s-icon2{
+    height: 25px;
+    width: 25px;
+    background-color: #7587a0;
+    border-radius: 12px;
+    padding: 7px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+}
+.s-icon3{
+    height: 25px;
+    width: 25px;
+    background-color: #7587a0;
+    border-radius: 12px;
+    padding: 7px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+}
+.s-icon4{
+    height: 25px;
+    width: 25px;
+    background-color: #7587a0;
+    border-radius: 12px;
+    padding: 7px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+}
+.cus-ser{
+    height: 224px;
+    width: 226px;
+    font-size: 0.85rem;
+    margin: 2rem 0 0 0;
+    color: white;
+}
+ul p{
+    font-size: 1rem;
+    font-weight: bold;
+}
+ul a{
+    display: block;
+    margin: 0.5rem 0 0 0;
+    font-size: 0.85rem;
+    color: white;
+    text-decoration: none;
+}
+ul p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+ul a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: white;
+}
+
+.foot-panel{
+    height: 120px;
+    width: 100%;
+    background-color: #935709;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bought p{
+    margin: 2rem 0 0 2rem;
+    font-size: 0.65rem;
+    color: white;
+}
+.bought img{
+    height: 10vh;
+    width: 10vh;
+    margin: 0 0 0 2rem;
+    background-size: cover;
+}
+.copy{
+    margin-right: 2rem;
+    margin-top: 2rem;
+    color: white;
+    font-size: 1rem;
+}
